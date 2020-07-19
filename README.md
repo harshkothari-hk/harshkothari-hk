@@ -1,17 +1,14 @@
 # Harsh Kothari     <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="80px">
 ### Hey !!  <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px"> 
 
-**ABOUT ME** 
-
- 
-
-
-<img align="right" alt="GIF" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" width="400px" />
-
-
 - 💬 Ask me about anything and everything !! 
 - 👨🏻‍💻 View my **Website** here => In Progress
-- 💬 Connect with on **Linkedin** <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
+
+# Connect with me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
+
+ 
+ 
+<img align="right" alt="GIF" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" width="400px" />
 
    https://www.linkedin.com/in/harsh-kothari-094502143/
 - 📫 **Reach** me here => harshk8590@gmail.com
