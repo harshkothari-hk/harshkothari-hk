@@ -1,4 +1,4 @@
-# Harsh Kothari     <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="80px">
+# Harsh Kothari&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">     <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="80px">
 ### Hey !!  <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px"> 
 
 - 💬 Ask me about anything and everything !! 
@@ -10,7 +10,6 @@
  
 <img align="right" alt="GIF" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" width="400px" />
 
-   https://www.linkedin.com/in/harsh-kothari-094502143/
 - 📫 **Reach** me here => harshk8590@gmail.com
 
  <p>
@@ -22,7 +21,7 @@
   </td>
   <td> 
     <a href="https://drive.google.com/file/d/1fxLKQFPhG3MRJ1VLx0Jm_uyRjh1dSWsO/view?usp=sharing">
-    <img src="https://img.shields.io/badge/Harsh's-Resume-386938188?style=flat&logo=📃">
+    <img src="https://img.shields.io/badge/Harsh's-Resume-386938188">
   </a> &nbsp;
   </td>
  </tr>
