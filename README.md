@@ -15,7 +15,6 @@
 
    https://www.linkedin.com/in/harsh-kothari-094502143/
 - 📫 **Reach** me here => harshk8590@gmail.com
-- 📝[Resume](https://drive.google.com/file/d/1fxLKQFPhG3MRJ1VLx0Jm_uyRjh1dSWsO/view?usp=sharing)
 
  <p>
  <tr>
