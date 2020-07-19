@@ -25,7 +25,7 @@
   </a> &nbsp;
   </td>
   <td> 
-    <a href="harshk8590@gmail.com">
+    <a href="mailto:harshk8590@gmail.com">
     <img src="https://img.shields.io/badge/-Mail-386938188?style=flat&logo=gmail">
   </a> &nbsp;
   </td>
