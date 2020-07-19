@@ -24,6 +24,11 @@
     <img src="https://img.shields.io/badge/Harsh's-Resume-386938188">
   </a> &nbsp;
   </td>
+  <td> 
+    <a href="harshk8590@gmail.com">
+    <img src="https://img.shields.io/badge/-Mail-green?style=flat&logo=mail">
+  </a> &nbsp;
+  </td>
  </tr>
 </p>
 
