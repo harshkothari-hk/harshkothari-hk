@@ -26,7 +26,7 @@
   </td>
   <td> 
     <a href="https://drive.google.com/file/d/1fxLKQFPhG3MRJ1VLx0Jm_uyRjh1dSWsO/view?usp=sharing">
-    <img src="https://img.shields.io/badge/Harsh's-Resume-386938188?style=flat&logo=gmail">
+    <img src="https://img.shields.io/badge/Harsh's-Resume-386938188?style=flat&logo=📃">
   </a> &nbsp;
   </td>
  </tr>
