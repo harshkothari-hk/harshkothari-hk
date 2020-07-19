@@ -18,9 +18,18 @@
 - 📝[Resume](https://drive.google.com/file/d/1fxLKQFPhG3MRJ1VLx0Jm_uyRjh1dSWsO/view?usp=sharing)
 
  <p>
+ <tr>
+  <td>
   <a href="https://www.linkedin.com/in/harsh-kothari-094502143/">
     <img src="https://img.shields.io/badge/Harsh-Kothari-386938188?style=flat&logo=linkedin">
-  </a> &nbsp; 
+  </a> &nbsp;
+  </td>
+  <td> 
+    <a href="https://drive.google.com/file/d/1fxLKQFPhG3MRJ1VLx0Jm_uyRjh1dSWsO/view?usp=sharing">
+    <img src="https://img.shields.io/badge/Harsh's-Resume-386938188?style=flat&logo=gmail">
+  </a> &nbsp;
+  </td>
+ </tr>
 </p>
 
 **Languages and Tools:**  
