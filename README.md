@@ -11,7 +11,7 @@
 
 - 💬 Ask me about anything and everything !! 
 - 👨🏻‍💻 View my **Website** here => In Progress
-- 💬 Connect with on **Linkedin** => https://www.linkedin.com/in/harsh-kothari-094502143/
+- 💬 Connect with on **Linkedin** <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"> https://www.linkedin.com/in/harsh-kothari-094502143/
 - 📫 **Reach** me here => harshk8590@gmail.com
 - 📝[Resume](https://drive.google.com/file/d/1fxLKQFPhG3MRJ1VLx0Jm_uyRjh1dSWsO/view?usp=sharing)
 
