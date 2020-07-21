@@ -11,7 +11,7 @@
 <img align="right" alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="400px" />
 
 - 📫 **Reach** me here => harshk8590@gmail.com
-[![Gmail Badge](https://img.shields.io/badge/-sakshamtaneja7861@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sakshamtaneja7861@gmail.com)](mailto:sakshamtaneja7861@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-harshk8590@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:harshk8590@gmail.com)](mailto:harshk8590@gmail.com)
 
  <p>
  <tr>
