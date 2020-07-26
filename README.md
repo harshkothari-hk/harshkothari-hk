@@ -2,7 +2,7 @@
 ### Hey !!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" width="35px"> 
 
 - 💬 Ask me about anything and everything ! !  
-- 👨🏻‍💻 View my **Website** here => In Progres
+- 👨🏻‍💻 View my **Website** here => In Progre
 
 # Connect with me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 
