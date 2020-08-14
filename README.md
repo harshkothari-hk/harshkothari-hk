@@ -38,5 +38,5 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
 
 ![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=harshkothari-hk&show_icons=true&hide_border=True)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshkothari-hk&show_icons=true&theme=algolia)](https://github.com/harshkothari-hk?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshkothari-hk&show_icons=true&hide_border=True)](https://github.com/harshkothari-hk?tab=repositories)
 
