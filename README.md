@@ -1,4 +1,4 @@
-# Harsh Kothari     <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="20px">
+# Harsh Kothari     <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="5px">
 ### Hey !!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" width="35px"> 
 
 - 💬 Ask me about anything and everything ! !  
