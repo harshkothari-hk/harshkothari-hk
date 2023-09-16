@@ -16,7 +16,7 @@
  <p>
  <tr>
   <td>
-  <a href="https://www.linkedin.com/in/harsh-kothari-094502143/">
+  <a href="https://www.linkedin.com/in/harshkothari-hk/">
     <img src="https://img.shields.io/badge/Harsh-Kothari-386938188?style=flat&logo=linkedin">
   </a> &nbsp;
   </td>
